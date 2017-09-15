@@ -1,0 +1,2 @@
+include ':nlp-api'
+project(':nlp-api').projectDir = new File(settingsDir, '../nlp-api')
